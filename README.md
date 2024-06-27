@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Eduardo Moran 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/a/Y54gS9P">
 
 Sobre mí
 💻 Desarrollador BackEnd
