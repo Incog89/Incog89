@@ -15,7 +15,7 @@
 <td width="50%">
 <h3 align="center">¿Qué son las variables?</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://www.tiktok.com/@taradeitor123/video/7352388367574748422" target="_blank"><img src="https://i.imgur.com/mmn6igj.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://www.tiktok.com/@taradeitor123/video/7352388367574748422" target="_blank">
 <img src="https://img.shields.io/badge/-TikTok-green?style=for-the-badge&color=fbfc40">
@@ -30,7 +30,7 @@
                <br>
 <h3 align="center">¿Qué son las Operadores Logicos?</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://www.tiktok.com/@taradeitor123/video/7352388367574748422" target="_blank"><img src="https://i.imgur.com/v6NAmnd.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://www.tiktok.com/@taradeitor123/video/7352388367574748422" target="_blank">
 <img src="https://img.shields.io/badge/-TikTok-green?style=for-the-badge&color=3fFD7f">
@@ -47,7 +47,7 @@
 <td width="50%">
 <h3 align="center">Sentencias Selectivas: If-Else</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/ZXIMbjJ.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://www.tiktok.com/@taradeitor123/video/7352388367574748422" target="_blank">
 <img src="https://img.shields.io/badge/-TikTok-green?style=for-the-badge&color=fbfc40">
@@ -61,7 +61,7 @@
 <td width="50%">
 <h3 align="center">Sentencias Selectivas: Switch</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/0LchuGB.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://www.tiktok.com/@taradeitor123/video/7352388367574748422" target="_blank">
 <img src="https://img.shields.io/badge/-TikTok-green?style=for-the-badge&color=ff00f4">
