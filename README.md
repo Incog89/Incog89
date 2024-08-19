@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Eduardo Moran 👋</h1>
+<h1 align="center">Hola, soy Eduardo Bustos Moran 👋</h1>
 </div>
 <img src="https://i.imgur.com/B4tj1Yt.png">
 
