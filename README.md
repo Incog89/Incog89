@@ -1,15 +1,14 @@
 <div align="center">
 <h1 align="center">Hola, soy Eduardo Bustos Moran 👋</h1>
 </div>
-<img src="https://i.imgur.com/B4tj1Yt.png">
+<img src="https://imgur.com/banner-31Wk85k">
 
 ## Sobre mi
 - 💻 Desarrollador BackEnd
 - 📚 Amante del aprendizaje continuo
 - 🧠 Interesado en IA, Analisis de datos y Desarrollo BackEnd de sistemas complejos
 - 🚀 Siempre explorando nuevas tecnologías
-<br>
-## Proyecto *Inicio de programacion*
+## <br> Proyecto *Inicio de programacion*
 <table>
 <tr>
 <td width="50%">
