@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Eduardo Bustos Moran 👋</h1>
 </div>
-<img src="https://imgur.com/banner-31Wk85k">
+<img src="https://imgur.com/31Wk85k.png">
 
 ## Sobre mi
 - 💻 Desarrollador BackEnd
